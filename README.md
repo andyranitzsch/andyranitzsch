@@ -2,12 +2,35 @@
 
 **andyranitzsch/andyranitzsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Andy Ranitzsch
+Analytics Engineer · Buenos Aires, Argentina 🇦🇷
 
-- 🧉 I'm based in Buenos Aires, Argentina
-- 🔭 I’m currently working on Analytics Engineering at Moni Online
-- 🌱 I’m currently learning Data Egneineering and Data Cloud Architecture
+- 🔭 I’m currently working on Data Analytics at Moni Online
+- 🌱 I’m currently learning Data Engineering and Data Cloud Architecture
 - 👯 I’m looking to collaborate on any vibe coded projects
-- 🤔 I’m looking for help with collaborating on open source projects
-- 📫 How to reach me: linkedin.com/in/paranitzsch
-- ⚡ Fun fact: Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza.
+
+---
+
+### Stack
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square)
+![dbt](https://img.shields.io/badge/dbt-orange?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+![Python](https://img.shields.io/badge/Python-green?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-purple?style=flat-square)
+
+---
+
+### Currently
+- → Analytics Engineering at **Moni Online**
+- → Building data models with dbt — cohort analysis, financial metrics
+- → Exploring Data Engineering & Cloud Architecture
+- → Open to collaborating on vibe-coded and open source projects
+
+---
+
+### Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paranitzsch-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/paranitzsch)
+
+---
+
+> Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza.
