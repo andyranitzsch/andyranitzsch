@@ -1,9 +1,4 @@
-## Hi there 👋
-
-**andyranitzsch/andyranitzsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Andy Ranitzsch
-Analytics Engineer · Buenos Aires, Argentina 🇦🇷
+## Hi there 👋 I'm Andy, Data Analyst and Industrial Engineer based in Buenos Aires, Argentina 🇦🇷
 
 - 🔭 I’m currently working on Data Analytics at Moni Online
 - 🌱 I’m currently learning Data Engineering and Data Cloud Architecture
