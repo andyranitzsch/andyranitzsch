@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Andy, Data Analyst and Industrial Engineer based in Buenos Aires, Argentina 🇦🇷
 
-- 🔭 I’m currently working on Data Analytics at Moni Online
-- 🌱 I’m currently learning Data Engineering and Data Cloud Architecture
-- 👯 I’m looking to collaborate on any vibe coded projects
+- 🔭 I’m currently working on Data Analytics & AI at Moni Online
+- 🌱 I’m learning about Data Engineering and Data Cloud Architecture
+- 👯 I’m constantly learning about AI Agents, LLMs and a devote Hermes follower
+- 👯 I’m looking to collaborate on any projects
 
 ---
 
